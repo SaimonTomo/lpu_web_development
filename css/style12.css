@@ -1,0 +1,51 @@
+body {
+            margin: 50;
+            padding: 25;
+            font-family: Arial, Helvetica, sans-serif;
+            background: url('tech3.jpg') no-repeat;
+            background-size: cover;
+            color: #f2ebeb;
+           
+        }
+        
+
+        header {
+            background-color: transparent;
+            color: #ebe8e8;
+            font-style: italic;
+            padding: 50px;
+            font-size: 22px;
+            text-align: center;
+        }
+
+        aside {
+            background-color: #0a0109;
+            color: #fff;
+            width: 200px;
+            position: fixed;
+            top: 0;
+            left: 0;
+            height: 100%;
+            overflow-y: auto;
+        }
+
+        aside ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        aside li {
+            padding: 10px;
+        }
+
+        aside a {
+            color: #fff;
+            text-decoration: none;
+        }
+
+        
+        main {
+            margin-left: 250px;
+            padding: 20px;
+            background-color: transparent; /* Background color for the content area */
+        }

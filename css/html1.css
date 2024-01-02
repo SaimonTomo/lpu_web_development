@@ -1,0 +1,86 @@
+
+ .payrol_form_group1 div span {
+   float:left;
+   width:180px;
+   margin-top:5px;
+   margin-left:20px;
+ }
+ .payrol_form_group1 div {
+   float:left;
+   margin-bottom:10px;
+ }
+ .input_box1 {
+    clear : none;
+    width:230px;
+ }
+ 
+ .payrol_form_group div span {
+   float:left;
+   width:180px;
+   margin-top:5px;
+   margin-left:20px;
+}
+
+ .payrol_form_group div {
+   float:left;
+   clear:both;
+   margin-bottom:10px;
+ }
+
+ .input_box {
+   clear:none;
+   width:230px;
+ }
+
+ .deduction_form_group div {
+   float:left;
+   clear:both;
+   margin-bottom:10px;
+ }
+
+ .deduction_form_group div span {
+   float:left;
+   width:180px;
+   margin-top:5px;
+   margin-left:20px;
+ }
+
+ .deduction_box {
+   clear:none;
+   width:230px;
+ }
+
+ .page_border {
+   width:100%;
+   float:left;
+   margin-top:40px;
+   padding:40px;
+   box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+ }
+
+ /* Sidebar styles */
+ aside {
+   background-color: #333;
+   color: #fff;
+   width: 200px;
+   position: fixed;
+   top: 0;
+   left: 0;
+   height: 100%;
+   overflow-y: auto;
+}
+
+ aside ul {
+   list-style: none;
+   padding: 0;
+}
+
+ aside li {
+   padding: 10px;
+}
+
+ aside a {
+   color: #fff;
+   text-decoration: none;
+}
+
